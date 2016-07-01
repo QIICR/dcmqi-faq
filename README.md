@@ -11,7 +11,7 @@ asked and answered.
 _Please search first!_
 
 Please use a short descriptive title for your question, and describe the
-details in the text field, if necessary.
+details in the comment field, if necessary.
 
 We mark questions which have been answered as 'answered': if you would like to
 help answer questions, you can use [this
