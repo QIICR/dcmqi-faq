@@ -2,9 +2,7 @@
 
 This is FAQ for the [dcmqi](http://github.com/qiicr/dcmqi) project.
 
-Please ask your question in an [Issue](https://github.com/qiicr/dcmqi-faq/issues).
-Make sure to search existing issues, as your question may already have been
-asked and answered.
+Please ask your question in an [Issue](https://github.com/qiicr/dcmqi-faq/issues). Before asking the question, consult [dcmqi documentation](https://fedorov.gitbooks.io/dcmqi/content/). 
 
 ### [View Questions + Answers](https://github.com/qiicr/dcmqi-faq/issues)
 ### [Ask a new Question](https://github.com/qiicr/dcmqi-faq/issues/new)
@@ -16,7 +14,7 @@ details in the comment field, if necessary.
 We mark questions which have been answered as 'answered': if you would like to
 help answer questions, you can use [this
 search](https://github.com/qiicr/dcmqi-faq/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+-label%3Aanswered)
-to find unanswered questions. 
+to find unanswered questions. Questions/issues that have been integrated into [dcmqi documentation](https://fedorov.gitbooks.io/dcmqi/content/) are resolved.
 
 ## Notes:
 
